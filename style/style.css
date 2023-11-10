@@ -50,8 +50,8 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
-  font-weight: lighter;
+  font-size: 3rem;
+  font-weight: strong !important;
 }
 
 .three {
